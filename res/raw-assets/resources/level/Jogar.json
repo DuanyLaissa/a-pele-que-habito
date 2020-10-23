@@ -1,0 +1,462 @@
+{
+
+	"assets": {
+	    "cena1": {
+	        "url": "textures/background/cena1",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena2": {
+	        "url": "textures/background/cena2",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena2_2": {
+	        "url": "textures/background/cena2_2",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena3": {
+	        "url": "textures/background/cena3",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena4": {
+	        "url": "textures/background/cena4",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena5": {
+	        "url": "textures/background/cena5",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena6": {
+	        "url": "textures/background/cena6",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena7": {
+	        "url": "textures/background/cena7",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena8": {
+	        "url": "textures/background/cena8",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena9": {
+	        "url": "textures/background/cena9",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena10": {
+	        "url": "textures/background/cena10",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena11": {
+	        "url": "textures/background/cena11",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena12": {
+	        "url": "textures/background/cena12",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena13": {
+	        "url": "textures/background/cena13",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena14": {
+	        "url": "textures/background/cena14",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena15": {
+	        "url": "textures/background/cena15",
+	        "type": "cc.SpriteFrame"
+	    },
+	    "cena16": {
+	        "url": "textures/background/cena16",
+	        "type": "cc.SpriteFrame"
+	    }
+		
+	},
+	"data": {
+		"name": "Tina",
+		"autor": "Duany Santos",
+		"music": "theme",
+		"steps": [
+			{
+				"id": 0,
+				"background": "cena1",
+				"foreground": [
+					"cena1",
+					"cena1",
+					"cena1",
+					"cena1",
+					"cena1",
+
+					"cena2",
+					"cena2",
+					"cena2",
+					"cena2",
+					"cena2",
+
+					"cena2_2",
+					"cena2_2",
+					"cena2_2",
+					"cena2_2",
+					"cena2_2",
+					"cena2_2",
+
+					"cena3",
+					"cena3",
+					"cena3",
+					"cena3",
+					"cena3"
+				
+				],
+				"text": [
+					"Corre, Tina, corre…\nArruma a casa, prepara o almoço, dá banho na menina!",
+					"Corre, Tina, corre…\nMãe, já tomou seu remédio?\nAcabou?!\nMas quando que eu não vi?!",
+					"Corre, Tina, corre…\nMeu Deus, olha a hora! Vou me atrasar pro serviço!",
+					"Quando foi que a vida se tornou tão corrida e difícil?\nAh, lembrei… foi quando mamãe adoeceu… logo depois que Nina nasceu, e eu tive que cuidar das duas, da casa e de Sandro…",
+					"Mas e quem cuida de mim?\nMe sinto tão cansada no fim do dia que às vezes penso que sou uma senhora de 70 anos num corpo de 21.",
+					
+					"Não sei o que seria de mim se não fosse o Sandro.\nAinda me lembro como se fosse hoje quando nos conhecemos na escola. Não acreditei quando percebi que ele me olhava diferente, muito menos quando ele me pediu em namoro e disse que queria conhecer a minha mãe.",
+					"Eu fiquei tão feliz! Apesar de ter apenas 13 anos na época, estava completamente apaixonada, tinha ganhado meu primeiro amor, meu protetor, minha alma gêmea.",
+					"Não sei quem ficou mais contente com o nosso relacionamento, se era eu ou minha mãe, pois apesar de ainda estar no ensino médio, Sandro já trabalhava e isso foi o bastante pra conquistar a benção da minha mãe.",
+					"“Um rapaz trabalhador, que gosta e se preocupa com você, minha filha, não se acha todo dia! É pra casar logo!” ela dizia.",
+					"Não demoramos muito, e logo estávamos morando juntos, casados, vivendo nosso sonho, construindo nossa família, batalhando lado a lado… ou seria ele um pouco à frente de mim?",
+
+					"A verdade é que depois que nossa filha nasceu, eu nunca mais consegui arrumar um emprego certo, e Sandro é quem paga a maoiria das contas desde então.",
+					"Minha mãe ajuda como pode, mas debilitada como está, não pode fazer muito. Eu me viro como posso: faço faxina, vendo marmita, cuido de idoso à criança, de gato à cachorro...",
+					"Faço tudo o que posso para levar um trocado pra casa, mesmo que seja pouco. Mas nunca é o suficiente... sempre é pouco demais. E Sandro faz questão de me lembrar disso.\nO tempo todo.",
+					"Ele está sempre reclamando de tudo: da comida que está fria ou sem sal, do leite que está caro, dos brinquedos de Nina pela casa, de como gasta todo o salário em contas e de como eu não sirvo pra nada.",
+					"Sinto saudade do Sandro de 8 anos atrás, o Sandro com quem eu passava horas conversando, estudando, sonhando juntos, e não desse homem que hoje me ignora, me menospreza… que me cala em nome do dinheiro que ele faz e eu não.",
+					"Não foi por esse Sandro por quem me apaixonei.\nNão sei exatamente onde nos perdemos nesses anos que se passaram.",
+					
+					"Mas isso tudo deve ser culpa minha mesmo.\nAfinal, que homem quer uma mulher desempregada, que vive de fazer bicos? Não é à toa que ele mudou… mas será que eu mereço mesmo passar por isso? Eu só queria que ele enxergasse que apesar de tudo, eu faço o meu melhor…",
+					"Ele não deve fazer ideia de como machuca, do quão humilhante é ter que entregar todo o meu dinheiro suado pra ele e ficar à sua mercê. Será que ele faz isso de propósito? Não quero acreditar que isso seja verdade…",
+					"Afinal, Sandro sempre cuidou de todas nós, nunca deixou faltar nada… Mas por que me sinto tão presa, controlada e tenho a sensação de que não tenho mais voz nem direito a opinião dentro da minha própria casa…?",
+					"Isso não está certo. Sandro pode ter sido o amor da minha vida um dia, mas hoje eu não o reconheço mais... Será que ele ainda me ama? Isso é tão triste… nem eu sei o que ainda sinto por ele… se for amor, com certeza não é mais o mesmo.",
+					"O que eu faço da minha vida, meu Deus?\nEu quero acreditar que ele vai mudar, mas ao mesmo tempo, penso na minha filha e não suporto a ideia de continuar sofrendo ao lado dele e ela crescer assistindo às nossas brigas..."
+			
+			
+					],
+
+
+				"audio": [],
+				"choices": [
+					{
+						"text": "Essa relação não faz mais sentido. Vou pedir o divórcio",
+						"target": 1
+					},
+					{
+						"text": "Talvez ele mude de atitude. Vou tentar conversar com Sandro",
+						"target": 2
+					}
+				]
+			},
+			{
+				"id": 1,
+				"background": "cena4",
+				"foreground": [
+					"cena4",
+					"cena4",
+					"cena4",
+					"cena4",
+					"cena4",
+					"cena4"
+				],
+				"text": [
+					"Eu sabia que não seria uma conversa fácil. Os oito anos de relacionamento passaram na nossa frente e se entalaram na minha garganta.",
+					"Tivemos toda uma vida, uma filha, uma história juntos… claro que Sandro não aceitaria meu pedido de separação e já estava esperando os xingamentos e todos os nomes que eu já era acostumada a ouvir e receber.",
+					"Ingratidão, descaso, injustiça, indiferença, deslealdade… Sandro atirou suas acusações, tentando empurrar a culpa pelo fim do nosso casamento por minha goela abaixo. Foi demais pra mim.",
+					"Não pude segurar o choro, mas não podia engolir aquela culpa, e vomitei tudo o que me afligia, como me sentia, como ele me feria com atitudes e palavras… como ele matou aos poucos o sentimento que nos unia…",
+					"Ele se frustrou ainda mais ao me ouvir, se sentiu insultado e não quis aceitar minhas acusações, e a discussão continuou. Até que enfim, ele parou de discutir:",
+					"Tudo bem. É isso mesmo que você quer? Não tem mais volta mesmo? Então eu dou o divórcio. Pode dar entrada no processo. Eu só queria te pedir uma coisa: me deixe ficar aqui em casa por um tempo, algumas semanas até eu achar um lugar pra ficar. Prometo que deixo você em paz, pode ser?”"
+
+
+				],
+				"audio": [],
+				"choices": [
+					{
+						"text": "Tudo bem, mas só por um tempo mesmo",
+						"target": 3
+					},
+					{
+						"text": "Não aguento mais ficar no mesmo lugar que você, Sandro",
+						"target": 4
+					}
+				]
+			},
+			{
+				"id": 2,
+				"background": "cena5",
+				"foreground": [
+					"cena5",
+					"cena5",
+					"cena5",
+					"cena5",
+					"cena5",
+					"cena5"
+					
+
+				],
+				"text": [
+					"Como explicar para o seu algoz que o que ele está fazendo não é certo e pedir para ele refletir e aceitar mudar? Eu não fazia ideia de como Sandro reagiria ao meu pedido para conversar, já que tínhamos perdido esse costume há um bom tempo.",
+					"Mas eu tinha que tentar. Por mim, por minha filha, por nós. por nossa família. Escavei todos os poços de coragem que me restavam e com o choro preso na garganta, falei pra Sandro tudo o que estava apertado no meu peito, o quanto eu o amei e como as atitudes dele machucavam minha alma e faziam o meu amor definhar aos poucos…",
+					"Como suportar aquelas humilhações e não pensar em desistir do nosso casamento? Eu cheguei ao meu limite. Se ele não mudar, eu não vejo outra alternativa a não ser o divórcio.",
+					"Sandro estava inquieto, porém pensativo, não falava muito. Ponderou algumas vezes, não aceitou meus argumentos, não quis reconhecer seus excessos, mas pela primeira vez em muito tempo, se calou e me ouviu. E me surpreendeu sendo inacreditavelmente compreensivo:",
+					"“Eu já entendi, Tina. Você está chateada, confusa e indecisa. Talvez, com esse meu jeito de ser, eu não tenha me expressado da melhor forma... e você pode ter me interpretado mal também… de toda forma,  eu peço desculpas, tentarei me policiar. Mas eu sei que o estrago já está feito… eu sinto muito se o seu sentimento por mim não é mais o mesmo.”",
+					"“Eu não quero te perder, Tina. Eu amo a nossa família. E se for pro nosso bem, podemos dar um tempo, eu entendo e vou respeitar seu espaço até você pensar melhor e se decidir. Mas por favor, me deixe ficar nessa casa até lá. Eu durmo no outro quarto com Nina ou até mesmo no sofá.”"
+				],
+				"audio": [],
+				"choices": [
+					{
+						"text": "Podemos tentar...",
+						"target": 3
+					},
+					{
+						"text": "Acho melhor não...",
+						"target": 4
+					}
+				]
+			},
+			{
+				"id":3,
+				"background": "cena6",
+				"foreground": [
+					"cena6",
+					"cena6",
+					"cena6",
+					"cena6",
+					"cena6",
+					"cena6",
+
+					"cena8",
+					"cena8",
+					"cena8"
+				],
+				"text": [
+					"Já tem um tempo que Sandro está lá em casa. No começo, eu achei que ele estava tramando alguma coisa para tentar reatar comigo, mas ele realmente respeitou o nosso acordo e meu espaço.",
+					"Dormimos em quartos separados, nos falamos regularmente quando nos encontramos em casa - mais até do que quando ainda estávamos juntos. Isso é tão estranho, é como se ele tivesse se transformado em outra pessoa, da água pro vinho da noite pro dia.",
+					"Não quero mais depender de Sandro, eu tenho que me virar ainda mais para sustentar a minha família e por isso, passo o dia todo fora, procurando e pulando de trabalho em trabalho.",
+					"As vezes, quando chego em casa, encontro Sandro cuidando de Nina ou ajudando minha mãe com as coisas de casa. Será que eu estou sonhando? Não quero criar falsas expectativas, mas uma ponta de esperança nasceu dentro de mim.",
+					"Sandro está se aproximando a cada dia. As rápidas palavras que costumávamos trocar foram se tornando conversas despretensiosas, e agora estão mais frequentes e mais longas…",
+					"Quando dou por mim, já estou contando sobre o meu dia, como tinha sido o trabalho, quem eu tinha encontrado no caminho… E todo dia está sendo assim. Sempre que eu me arrumo pra sair, Sandro me pergunta pra onde vou e de que horas volto. Se eu estiver chegando, pergunta onde e com quem passei o dia…",
+					
+					"A minha vontade de acreditar que ele se tornou um novo homem me fez pensar que isso é preocupação e cuidado dele comigo, mas percebi que das vezes em que não conto o que ele quer saber, ele logo se irrita e faz mais questionamentos. Estou ficando desconfiada. Algo não está certo.",
+					"Estou vendo que Sandro se tornou minha sombra, está sempre no meu encalço, sabe de toda a minha agenda, e se eu chegar algum dia fora do horário, sou interrogada. Se eu saio com alguém, ele aparece, coincidentemente, no mesmo lugar onde estou...",
+					"Não há dúvidas: ele está obcecado e quer controlar a minha vida. Aquela casa ficou pequena demais pra nós dois. Preciso fazer alguma coisa pra resolver essa situação. Assim não dá pra ficar, mas tenho medo de me precipitar..."
+				],
+				"audio": [],
+				"choices": [
+					{
+						"text": "Eu queria fugir, ir embora pra bem longe!",
+						"target": 5
+					},
+					{
+						"text": "Devo procurar ajuda? Alguém pra me aconselhar?",
+						"target": 6
+					},
+					{
+						"text": "Sandro é quem deveria ir embora.",
+						"target": 4
+					}
+				]
+			},
+			{
+				"id": 4,
+				"background": "cena7",
+				"foreground": [
+					"cena7",
+					"cena7",
+					"cena7",
+					"cena7",
+					"cena7",
+					"cena7",
+					"cena7",
+					"cena7",
+					"cena7",
+					"cena7",
+					"cena7",
+					"cena7",
+					"cena7",
+
+					"cena9",
+					"cena9",
+					"cena9",
+					"cena9",
+					"cena9",
+					"cena9",
+					"cena9",
+					"cena9",
+					"cena9",
+
+					"cena12",
+					"cena12",
+					"cena12",
+					"cena12",
+					"cena12",
+					"cena12"
+				],
+				"text": [
+					"O que aconteceu? Quem é essa pessoa em que Sandro se transformou? Eu nunca o vi tão furioso antes. Tem tanto ódio nos seus olhos que parece que eles vão saltar e me atacar a qualquer momento.",
+					"“Sandro eu tomei minha decisão, você disse que entenderia... onde está aquele homem compreensivo que ofereceu a separação pacificamente?”",
+					"“Eu fiz tudo por você e é assim que você me agradece!? Me enxotando da minha própria casa, Tina?! Tá com tanta pressa assim pra se livrar de mim por quê?!”",
+					"“Solta o meu braço, Sandro… por favor, está doendo! Você está me machucando… você vai me deixar roxa, Sandro!”",
+					"“Quem é ele?! Fala logo! Diz a verdade! Com essa pressa toda já deve ter alguém pra deitar na minha cama, não é!? ME RESPONDE, TINA!”",
+					"“Pelo amor de Deus, pára com essa loucura! Deixa do teu ciúme sem razão, não tem ninguém entre nós! Você sabe que você foi o primeiro e único homem da minha vida! O nosso casamento que afundou, será que você não vê?”",
+					"“MENTIRA! EU NÃO ACREDITO NUMA SÓ PALAVRA QUE VOCÊ DIZ! Você não presta! Não merece uma gota do meu suor! Há quanto tempo vem me traindo, sua vagabunda!? FALA DE UMA VEZ!”",
+					"“Pelo amor que você tem à nossa Nina, me larga, Sandro, por favor… ela está apavorada, me solta, deixa eu acalmar a nossa filha, ela não tem que ver isso!”",
+					"“NOSSA filha!? Quem me garante que ela é mesmo minha!? Você vive batendo perna na rua o dia inteiro e diz que está trabalhando, mas não ganha nem um salário! QUE TRABALHO É ESSE?! TU TRABALHA RODANDO O MUNDO TODO, TINA! Eu deveria ter pedido teste de paternidade assim que tu engravidou!”",
+					"“Não se atreva a dizer uma coisa dessas! É claro que ela é sua filha! Não acabe com o resto de respeito que ainda sobrou entre nós! SEJA HOMEM! Encare os fatos como um homem de verdade!”",
+					"PLAFFT!\nTUMDUM\nBUÁÁÁ!!! MA-MÁÁÁÁÁÁÁÁÁ!!!",
+					"Que dor… como queima… tudo gira.... Eu estou no chão? Nina… Nina, cadê você… não chore filha, estou aqui… não chore, mamãe está aqui...”",
+					"O que é isso quente escorrendo pelo meu queixo? Sangue...?\nSandro… eu não acredito... você me bateu…? Me nocauteou e fugiu… covarde!\nNão estou acreditando que isto está acontecendo comigo...",
+					
+					
+					"O que eu fiz pra merecer isso, mãe? Eu sou uma mulher tão ruim assim? Nem nos meus piores pesadelos eu imaginei viver uma situação dessa…",
+					"A dor dos meus machucados não se compara com a dor que estou sentindo aqui dentro. Me sinto tão impotente, um nada! Uma folha de papel que nada pode fazer contra as mãos que me rasgam e me amassam por inteira, sem oferecer resistência nenhuma.",
+					"Deve ser castigo por eu não saber tomar as decisões corretas na vida, por querer terminar meu casamento, por destruir minha família… Tanto que amei aquele homem, mãe! Eu não tive amor de outro senão dele! Por que as coisas acabaram assim?",
+					"Eu lutei tanto, aguentei, engoli tantos sapos… será que não me esforcei o suficiente? Mãe, eu fiz errado? Me diz onde errei, por favor… ",
+					"Tina, minha filha, acalme seu coração. Homem é assim mesmo, não pode ser contrariado pois fere o seu âmago e o seu papel de chefe, provedor da casa. A Palavra de Deus já diz: “Toda mulher sábia edifica a sua casa; mas a tola a derruba com as próprias mãos.”, não alimente dúvidas nem rancor do seu marido, perdoe-o.",
+					"Sandro tem trabalhado muito pra manter essa casa e a nós, ele devia estar se sentindo sobrecarregado, estressado… tente entendê-lo, espere as coisas esfriarem, eu sei que vocês podem conversar e se entender quando a poeira baixar. Não deixe sua filha crescer sem um pai, como você cresceu...",
+					"Minha filha… me perdoe pelo que você viu hoje… me perdoe por ser fraca… só você me dá forças pra continuar vivendo, Nina. Eu sei que tenho que ser forte por nós duas, porque a partir de agora estamos sozinhas… somos só eu e você.",
+					"Queria poder fazer você esquecer a cena que presenciou. Eu também queria esquecer. Queria esquecer o dia de hoje e todos os outros que vivi com seu pai. Queria esquecer o quanto amei um homem e o quanto ele me destruiu…",
+					"Queria dormir, acordar amanhã e descobrir que tudo isso não passou de um pesadelo… mas, infelizmente, as dores e marcas no meu corpo me fazem lembrar do quão real esse pesadelo é. Já que não posso esquecer, só me resta tentar dormir.",
+					
+					"10 chamadas perdidas de Sandro.\nNão acredito que ele ainda teve coragem de tentar me ligar. O que ele tem na cabeça?",
+					"“Perdão pelo que eu fiz… perdi a cabeça porque eu te amo…”\nÉ, eu vi quanto amor… estou sentindo esse amor na pele até agora…",
+					"“Não suportaria te perder nem me afastar da nossa pequena…”\nNem ela. Eu sei que apesar de tudo, Nina ama o pai. Com certeza ela vai sentir muita falta… pobre da minha menina… vai crescer sem amor do pai, como eu. Era tudo o que eu menos queria pra ela…",
+					"“Aceito sua decisão… vou embora da sua vida, se você está decidida…”\nAinda bem que ainda lhe restou um pouco de bom senso… Ele deve ter refletido sobre a gravidade do que fez… Mesmo assim, só vou acreditar quando eu tiver com os papéis do divórcio assinado e nas minhas mãos.",
+					"“Vou passar aí amanhã para me despedir e pegar minhas coisas, ok?”\n“Depois você não vai mais me ver de novo…”\nVir aqui? Depois de tudo isso… não sei… não sei se consigo olhar na cara dele depois de tudo o que ele fez… eu realmente não o quero ver nunca mais!",
+					"Se bem que seria ótimo ele levar logo todas as suas coisas de uma vez e sumir mesmo das nossas vidas.\nQuero proteger Nina, mas ela também é filha dele… ele quer se despedir dela, não sei se posso lhe negar isso…\nAi, meu Deus, que sina a minha! Mais uma vez, aqui estou sem saber o que fazer!"
+					
+				],
+				"audio": [],
+				"choices": [
+					{
+						"text": "Ok, Sandro. Pegue suas coisas e não volte mais!",
+						"target": 7
+					},
+					{
+						"text": "Esqueça o caminho da minha casa! Não venha nunca mais!",
+						"target": 8
+					}
+				]
+			},
+			{
+				"id": 5,
+				"background": "cena10",
+				"foreground": [
+					"cena10"
+				],
+				"text": [
+					"A quem estou querendo enganar? Eu não tenho onde cair morta.",
+					"Nem tenho dinheiro pra bancar uma mudança assim de última hora. Minha mãe é a única parente por perto… Nenhum amigo, vizinho ou conhecido teria coragem de abrigar uma mulher com mãe doente e filha pequena que nem renda tem.",
+					"Não adianta me iludir… eu não tenho ninguém com quem contar."
+				],
+				"audio": [],
+				"choices": [
+					{
+						"text": "Devo procurar ajuda? Alguém pra me aconselhar?",
+						"target" : 6
+					},
+					{
+						"text": "Sandro é quem deveria ir embora.",
+						"target" : 4
+					}
+				]
+			},
+			{
+				"id": 6,
+				"background": "cena11",
+				"foreground": [
+					"cena11"
+				],
+				"text": [
+					"“Você devia se colocar no lugar dele… com certeza você deve ter feito alguma coisa pra irritá-lo!”\n\nPor que...",
+					"“Ah, mas também não deve ser assim, não. Você não está exagerando um pouco?”\n\na vítima…",
+					"“O Sandro que conheço é um rapaz de família, trabalhador! Estamos falando da mesma pessoa?!”\n\nsempre…",
+					"“Você deveria era colocar as mãos para o céu por ter um marido que não te deixa faltar nada!”\n\né a culpada?"
+									
+				],
+				"audio": [],
+				"choices": [
+					{
+						"text": "Eu queria fugir, ir embora pra bem longe!",
+						"target" : 5
+					},
+					{
+						"text": "Sandro é quem deveria ir embora.",
+						"target" : 4
+					}
+				]
+			},
+			{
+				"id": 7,
+				"background": "bg0",
+				"foreground": [
+					"",
+					"",
+					"",
+					"",
+					"cena13",
+					"cena13",
+					"cena13",
+					"cena13",
+					""
+					
+				],
+				"text": [
+					"Nem acredito que tive estômago para abrir a porta pra esse homem e deixar ele entrar na minha casa novamente. Ainda nem amanheceu direito, e aqui estou, no meu quarto arrumando as coisas do homem que por me amar tanto, me acertou um soco no meio da cara.",
+					"BLAM!\nChling~~\nCLICK.",
+					"Sandro, pra quê você trancou essa porta?! Abre essa porta agora! AGORA!\nNão chega perto de mim! SAI DE PERTO DE MIM!!! SAAAAAAAAAAI!!!",
+					"Eu vim cumprir a minha promessa, Tina. Você nunca mais vai me ver!",
+
+					"Uma.\nMeu grito ecoou pelo quarto e se espalhou pela casa.\nFilha, me perdoe, não consegui ser forte o suficiente pra te proteger.",
+					"Duas.\nSenti meu sangue pulsando para fora do meu corpo junto com com a minha voz sendo abafada.\nMãe, me perdoe, eu não tive a sua fé para seguir as Escrituras...",
+					"Três.\nMinhas pernas me traíram e eu voltei ao mesmo chão em que estava caída menos de 12 horas atrás.\n...acabei sendo a mulher tola, provoquei o meu fim com as minhas próprias mãos.",
+					"Quatro.\nJá não sentia mais nenhum golpe, apenas o frio tomando o meu corpo.\nA última coisa que vi foi uma faca, meu sangue me deixando, envolvendo o meu corpo inerte no chão e se misturando à sombra de Sandro, o homem, que me matou em nome do amor que sentia por mim.",
+					"Este jogo foi baseado em um caso real.\nSinto muito se você chegou aqui. Você teve o mesmo destino que milhares de mulheres que morrem todos os anos. A ficção imita a realidade. E esta é a realidade de várias mulheres no Brasil e no mundo.",
+					"Se você está sofrendo algum tipo de violência ou conhece alguém que está numa situação de risco, não hesite, não espere. Acredite, ele não vai mudar.\nDenuncie. Disque 100 ou 180. Procure ajuda. A sua vida não é um jogo."
+					
+					
+				],
+				"audio": [],
+				"choices": []
+			},
+			{
+				"id": 8,
+				"background": "bg0",
+				"foreground": [
+					"",
+					"",
+					"",
+					
+					"cena14",					
+					"cena14",
+					"cena14",
+					"cena14",
+					"cena14"
+
+					
+				],
+				"text": [
+					"Já vai amanhecer e eu não preguei o olho pensando no pedido de Sandro. É claro que eu não permitiria a entrada dele na minha casa! O bem-estar da minha filha está acima de tudo! Não permitirei que ele chegue perto dela.",
+					"Não vou perdoá-lo nunca. Ele terá que tratar diretamente com o meu advogado se quiser resgatar seus pertences. Aliás, vou agora mesmo pegar o primeiro ônibus da manhã para ir na delegacia. Ele não pode sair impune pelo  que fez!",
+					"Que estranho aquela pessoa no final da rua…\nO que ela está fazendo na entrada de um lugar tão esquisito em vez de esperar perto da parada de ônibus como todo mundo?",
+					
+					"Está vindo na minha direção… espera... eu conheço essa silhueta...\nNão pode ser! SANDRO!? O que você está fazendo aqui?!\nEu não disse pra você não aparecer mais aqui?!",
+					"Isso é uma faca na  sua mão, Sandro!?\n\n“Acabou, Tina! Não era isso que você queria?! Nunca mais me ver?! Você nunca mais vai me ver, mas também não vai ver mais ninguém!”",
+					"“Acabou”.\nAcabou minha vida. Acabou meu sofrimento. Foi o que pensei quando senti Sandro me agarrar e enterrar aquela faca na minha barriga.\nAcabou a luta. Não preciso mais ser forte. Acabou.",
+					"Senti minhas pernas falharem e meu corpo foi ao chão. Instintivamente, levei minhas mãos ao ferimento e me encolhi, esperando mais golpes, que não vieram. As pessoas na parada de ônibus correram para me socorrer, fazendo Sandro fugir entre os becos.",
+					"Deitei ali no meio do meu sangue e respirei aliviada: Não, ainda não acabou. Eu ainda estou viva. Eu sobrevivi!",
+					
+					"Este jogo foi baseado em um caso real.\nParabéns. Se você chegou até aqui, é porque conseguiu sobreviver.\nMas nem todas têm esta sorte.",
+					"Você tomou as decisões que pensou ser as mais corretas, e mesmo assim passou de morrer. Achou injusto? Pois, é. Essa é a realidade de várias mulheres no Brasil e no mundo. A vida não é justa com a grande maioria de nós.",
+					"Se você está sofrendo algum tipo de violência ou conhece alguém que está numa situação de risco, não hesite, não espere. Acredite, ele não vai mudar.\nDenuncie. Disque 100 ou 180. Procure ajuda. A sua vida não é um jogo."
+					
+					
+				],
+				"audio": [],
+				"choices": []
+			}
+				
+		]
+
+	}
+}
